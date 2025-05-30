@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Employee Salary Table</title>
+  <style>
+    table {
+      width: 70%;
+      border-collapse: collapse;
+      margin: 20px auto;
+      font-family: Arial, sans-serif;
+    }
+    th, td {
+      padding: 12px;
+      border: 1px solid #333;
+      text-align: center;
+    }
+    th {
+      background-color: #f8f8f8;
+    }
+    caption {
+      font-size: 20px;
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <table>
+    <caption>Employee Salary Details</caption>
+    <tr>
+      <th>Employee ID</th>
+      <th>Name</th>
+      <th>Designation</th>
+      <th>Monthly Salary (INR)</th>
+    </tr>
+    <tr>
+      <td>101</td>
+      <td>Ravi Kumar</td>
+      <td>Software Engineer</td>
+      <td>60,000</td>
+    </tr>
+    
+      <
